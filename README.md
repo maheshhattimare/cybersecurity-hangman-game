@@ -8,7 +8,7 @@ Learn cybersecurity concepts while playing hangman. Each question teaches import
 
 ## Visit the Website
 
-## [Cybersecurity Hangman](https://cybersecurity-hangman-game.app/)
+## [Cybersecurity Hangman Game](https://cybersecurity-hangman-game.vercel.app/)
 
 ### Installation
 
